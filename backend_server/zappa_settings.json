@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "app_function": "main.lambda_handler",
+        "profile_name": null,
+        "project_name": "projectstonks",
+        "runtime": "python3.8",
+        "s3_bucket": "zappa-stonks",
+        "aws_region": "ap-south-1"
+    }
+}
